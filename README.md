@@ -2,7 +2,7 @@
 
 Repositório para armazenar resumos sobre GIT e GITHUB 
 do curso Versionamento de código com Git e Github da 
-[Digital Innovation one](https://web.dio.me/)
+[Digital Innovation one](https://web.dio.me/).
 
 ## 📚 Documentação
 - [Documentação Git](https://git-scm.com/doc)
